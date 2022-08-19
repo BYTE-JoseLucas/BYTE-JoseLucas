@@ -5,7 +5,7 @@
 <p align="left"> 
   Prazer sou o <strong>Lucas Silva</strong>, tenho 25 anos e moro em <strong>Atibaia / SP</strong>.<br>
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela USF.<br>
-  Estou em transição de carreira da área de manufatura para desenvolvimento.
+  Estudando análise de dados com Python e seus pacotes.
 </p>
 
   <a href = "mailto:jose.lucas.xcvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
