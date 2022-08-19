@@ -8,12 +8,6 @@
   Estou em transição de carreira da área de manufatura para desenvolvimento.
 </p>
 
-<p align="left">
-  📬 Estou totalmente aberto a minha primeira oportunidade: ⤵️
-</p>
-
-<p align="left">
-
   <a href = "mailto:jose.lucas.xcvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jose-lucas-soares-silva/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" target="_blank"></a> 
 
