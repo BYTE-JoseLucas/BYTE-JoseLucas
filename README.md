@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left"> 
-  Prazer sou o <strong>Lucas Silva</strong>, tenho 25 anos e moro em <strong>Atibaia / SP</strong>.<br>
+  Prazer sou o <strong>Lucas Silva</strong>, tenho 26 anos e moro em <strong>Atibaia / SP</strong>.<br>
   Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela USF.<br>
   Estudando análise de dados com Python e seus pacotes.
 </p>
@@ -14,9 +14,9 @@
 </p>  
 
 <div align="left">
-  <a href="https://github.com/Lucas-DataScience">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lucas-DataScience&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-DataScience&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/jlucasDATA">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jlucasDATA&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jlucasDATA&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -29,6 +29,6 @@
   
   ##
  
-![Snake animation](https://github.com/Lucas-DataScience/Lucas-DataScience/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/jlucasDATA/jlucasDATA/blob/output/github-contribution-grid-snake.svg)
  
 </div>
