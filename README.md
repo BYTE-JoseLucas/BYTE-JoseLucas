@@ -2,10 +2,8 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
-<p align="left"> 
-  Prazer sou o <strong>Lucas Silva</strong>, tenho 26 anos e moro em <strong>Atibaia / SP</strong>.<br>
-  Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> pela USF.<br>
-  Estudando análise de dados com Python e seus pacotes.
+<p align="left">
+Prazer sou o <strong>José Lucas</strong>, tenho 26 anos e moro em <strong>Atibaia / SP</strong>. Sou um profissional da área de tecnologia focado em dados, com    uma paixão por transformar informações complexas em insights valiosos para o negócio. Sou uma pessoa resiliente, capaz de enfrentar desafios com determinação e inovação. Além disso, sou orientada para resultados e sempre busco encontrar soluções eficientes para os problemas apresentados. Possuo habilidades analíticas, que me permitem avaliar dados de maneira crítica e identificar tendências e oportunidades para o negócio. Estou sempre em busca de novas tecnologias e técnicas para aprimorar minhas habilidades e alcançar resultados ainda melhores.
 </p>
 
   <a href = "mailto:jose.lucas.xcvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
