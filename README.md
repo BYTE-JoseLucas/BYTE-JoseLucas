@@ -12,7 +12,7 @@ Prazer sou o <strong>José Lucas</strong>, tenho 26 anos e moro em <strong>Atiba
 </p>  
 
 <div align="left">
-  <a href="https://github.com/jlucasDATA">
+  <a href="https://github.com/BYTE-JoseLucas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BYTE-JoseLucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BYTE-JoseLucas&layout=compact&langs_count=7&theme=radical"/>
 </div>
@@ -27,6 +27,6 @@ Prazer sou o <strong>José Lucas</strong>, tenho 26 anos e moro em <strong>Atiba
   
   ##
  
-![Snake animation](https://github.com/jlucasDATA/BYTE-JoseLucas/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BYTE-JoseLucas/BYTE-JoseLucas/blob/output/github-contribution-grid-snake.svg)
  
 </div>
