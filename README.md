@@ -21,5 +21,5 @@ Prazer sou o <strong>José Lucas</strong>, tenho 27 anos e moro em <strong>Atiba
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="SQL Server" height="30" width="40" src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png">
-  <img align="center" alt="SQL Firebird" height="30" width="40" src="https://firebirdsql.org/file/about/firebird-logo-32.png">
+  <img align="center" alt="SQL Firebird" height="30" width="40" src="https://firebirdsql.org/file/about/ds-firebird-logo-32.png">
   
