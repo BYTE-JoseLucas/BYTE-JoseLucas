@@ -3,7 +3,15 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
-Prazer sou o <strong>José Lucas</strong>, tenho 27 anos e moro em <strong>Atibaia / SP</strong>. Sou um profissional da área de tecnologia focado em dados, com    uma paixão por transformar informações complexas em insights valiosos para o negócio. Sou uma pessoa resiliente, capaz de enfrentar desafios com determinação e inovação. Além disso, sou orientada para resultados e sempre busco encontrar soluções eficientes para os problemas apresentados. Possuo habilidades analíticas, que me permitem avaliar dados de maneira crítica e identificar tendências e oportunidades para o negócio. Estou sempre em busca de novas tecnologias e técnicas para aprimorar minhas habilidades e alcançar resultados ainda melhores.
+Olá, sou o <strong>Zé</strong> ou <strong>José Lucas</strong> e seja bem-vindo(a) ao meu perfil! 💛🚀
+
+Como um entusiasta da tecnologia, estou trilhando minha jornada profissional na empolgante área da Engenharia de Dados (também conhecida como Data Engineering, elegante né? 🤩). Inicialmente imerso na Análise de Dados, percebi a escassez de dados de qualidade necessários para embasar minhas análises. Essa percepção me levou a explorar a Engenharia de Dados, e a paixão rapidamente chegou. Hoje, dedico-me ao fascinante e complexo universo da engenharia de dados, com o objetivo de fornecer a todos os profissionais da área dados de altíssima qualidade para aprimorar suas atividades.
+
+Minha abordagem é pautada na resiliência e determinação, sempre em busca de soluções eficazes e inovadoras para desafios complexos. 
+
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Ciência de Dados (4° e 1° Semestre respectivamente) na Universidade São Francisco, aprofundando ainda mais meus conhecimentos.
+
+Acredito firmemente no poder dos dados, ecoando as palavras de Clive Humby: "Dados são o novo petróleo". Com essa convicção, busco constantemente aprimorar minhas habilidades na área de dados, contribuindo para a geração de insights valiosos que impulsionam o sucesso das empresas. Estou entusiasmado em conectar-me com colegas apaixonados por dados, colaborar em projetos desafiadores e explorar as oportunidades infinitas que esse campo em constante evolução tem a oferecer.
 </p>
 
   <a href = "mailto:jose.lucas.xcvi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" target="_blank"></a>
@@ -18,8 +26,3 @@ Prazer sou o <strong>José Lucas</strong>, tenho 27 anos e moro em <strong>Atiba
 </div>
   
 <div style="display: inline_block"><br>
-  
-  <img align="center" alt="Python" height="40" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="SQL Server" height="40" width="30" src="https://img.icons8.com/color/144/000000/microsoft-sql-server.png">
-  <img align="center" alt="SQL Firebird" height="40" width="30" src="https://w7.pngwing.com/pngs/715/817/png-transparent-firebird-database-microsoft-sql-server-logo-logo-free-logo-area-sql-thumbnail.png">
-  
