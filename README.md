@@ -3,7 +3,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
-Olá, sou o <strong>Zé</strong> ou <strong>José Lucas</strong> e seja bem-vindo(a) ao meu perfil! 💛🚀
+Olá, sou o <strong>Zé</strong> ou <strong>José Lucas</strong> e seja bem-vindo(a) ao meu perfil! 💛
 
 Como um entusiasta da tecnologia, estou trilhando minha jornada profissional na empolgante área da Engenharia de Dados (também conhecida como Data Engineering, elegante né? 🤩). Inicialmente imerso na Análise de Dados, percebi a escassez de dados de qualidade necessários para embasar minhas análises. Essa percepção me levou a explorar a Engenharia de Dados, e a paixão rapidamente chegou. Hoje, dedico-me ao fascinante e complexo universo da engenharia de dados, com o objetivo de fornecer a todos os profissionais da área dados de altíssima qualidade para aprimorar suas atividades.
 
