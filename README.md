@@ -9,7 +9,7 @@ Como um entusiasta da tecnologia, estou trilhando minha jornada profissional na 
 
 Minha abordagem é pautada na resiliência e determinação, sempre em busca de soluções eficazes e inovadoras para desafios complexos. 
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Ciência de Dados (4° e 1° Semestre respectivamente) na Universidade São Francisco, aprofundando ainda mais meus conhecimentos.
+Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Ciência de Dados (5° e 2° Semestre respectivamente) na Universidade São Francisco, aprofundando ainda mais meus conhecimentos.
 
 Acredito firmemente no poder dos dados, ecoando as palavras de Clive Humby: "Dados são o novo petróleo". Com essa convicção, busco constantemente aprimorar minhas habilidades na área de dados, contribuindo para a geração de insights valiosos que impulsionam o sucesso das empresas. Estou entusiasmado em conectar-me com colegas apaixonados por dados, colaborar em projetos desafiadores e explorar as oportunidades infinitas que esse campo em constante evolução tem a oferecer.
 </p>
