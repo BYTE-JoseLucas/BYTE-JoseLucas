@@ -22,7 +22,6 @@ Acredito firmemente no poder dos dados, ecoando as palavras de Clive Humby: "Dad
 <div align="left">
   <a href="https://github.com/BYTE-JoseLucas">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=BYTE-JoseLucas&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="105em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BYTE-JoseLucas&layout=compact&langs_count=7&theme=radical"/>
 </div>
   
 <div style="display: inline_block"><br>
