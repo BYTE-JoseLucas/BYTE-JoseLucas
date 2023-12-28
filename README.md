@@ -1,6 +1,6 @@
 ## Olá, bem vindo ao meu Github!
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://uploaddeimagens.com.br/images/004/699/985/full/19468020-removebg-preview.png?1703803348" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
 <p align="left">
 Olá, sou o <strong>Zé</strong> ou <strong>José Lucas</strong> e seja bem-vindo(a) ao meu perfil! 💛
