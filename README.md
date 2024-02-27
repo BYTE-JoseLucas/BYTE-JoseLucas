@@ -35,15 +35,3 @@ Acredito muito no poder dos dados, palavras de Clive Humby: "Dados são o novo p
   ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=flat&logo=PyCharm&logoColor=white)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-<br/>
-
-<p align="center">
-<a href="https://github.com/BYTE-JoseLucas">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=BYTE-JoseLucas&count_private=true&show_icons=true&theme=synthwave" />
-</a>
-<a href="https://github.com/BYTE-JoseLucas">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BYTE-JoseLucas&langs_count=8&layout=compact" />
-</a>
-</p>
-
-<br/>
