@@ -5,15 +5,28 @@
 <h1>Bem vindo ao meu Github ;)</h1>
 
 <p align="left">
-Olá, sou o <strong>Zé</strong> ou <strong>José Lucas</strong> e seja bem-vindo(a) ao meu perfil! 💛
+Olá, sou o <strong>Zé</strong> ou <strong>José Lucas</strong> e seja bem-vindo(a) ao meu perfil! 💛🚀
 
-Como um entusiasta da tecnologia, estou trilhando minha jornada profissional na empolgante área da Engenharia de Dados (também conhecida como Data Engineering, elegante né? 🤩). Inicialmente imerso na Análise de Dados, percebi a escassez de dados de qualidade necessários para embasar minhas análises. Essa percepção me levou a explorar a Engenharia de Dados, e a paixão rapidamente chegou. Hoje, dedico-me ao fascinante e complexo universo da engenharia de dados, com o objetivo de fornecer a todos os profissionais da área dados de altíssima qualidade para aprimorar suas atividades.
+Tenho construído uma carreira sólida em empresas multinacionais e nacionais, atuando em setores como autopeças, eletrônica, agronegócio e software. Meu foco principal sempre foi demonstrar como o uso inteligente de dados pode transformar a tomada de decisões e gerar economias significativas para os negócios.
 
-Minha abordagem é pautada na ética, resiliência e determinação, sempre buscando soluções eficazes e inovadoras para desafios complexos.
+Guiado pela frase inspiradora de Mario Sergio Cortella, “𝗙𝗮𝗰𝗮 𝗼 𝘁𝗲𝘂 𝗺𝗲𝗹𝗵𝗼𝗿 𝗻𝗮 𝗰𝗼𝗻𝗱𝗶𝗰ã𝗼 𝗾𝘂𝗲 𝘃𝗼𝗰ê 𝘁𝗲𝗺, 𝗲𝗻𝗾𝘂𝗮𝗻𝘁𝗼 𝘃𝗼𝗰ê 𝗻ã𝗼 𝘁𝗲𝗺 𝗰𝗼𝗻𝗱𝗶𝗰õ𝗲𝘀 𝗺𝗲𝗹𝗵𝗼𝗿𝗲𝘀 𝗽𝗮𝗿𝗮 𝗳𝗮𝘇𝗲𝗿 𝗺𝗲𝗹𝗵𝗼𝗿 𝗮𝗶𝗻𝗱𝗮”, busco continuamente aplicar soluções open source em meus projetos, promovendo redução de custos e a maximização de resultados.
 
-Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e Ciência de Dados (5° e 2° Semestre respectivamente) na Universidade São Francisco, aprofundando ainda mais meus conhecimentos.
+Minhas principais competências incluem:
 
-Acredito muito no poder dos dados, palavras de Clive Humby: "Dados são o novo petróleo". Com essa frase, busco constantemente aprimorar minhas habilidades na área de dados, contribuindo para a geração de insights valiosos que impulsionam o sucesso das empresas.
+𝗦𝗼𝗳𝘁 𝗦𝗸𝗶𝗹𝗹𝘀
+• Resiliência;
+• Determinação;
+• Proatividade ("Hands On");
+• Resolução de problemas complexos.
+
+𝗛𝗮𝗿𝗱 𝗦𝗸𝗶𝗹𝗹𝘀
+• Criação e gestão de indicadores de desempenho (produção, comercial, etc.);
+• Ferramentas da qualidade: MASP 8D, Ishikawa, Pareto, 5S, 5 Porquês, PDCA;
+• Desenvolvimento de processos ETL (Pentaho);
+• SQL e modelagem de bancos de dados relacionais;
+• Desenvolvimento de dashboards gerenciais e operacionais no Power BI e Looker Studio.
+
+Graduado em Análise e Desenvolvimento de Sistemas pela Universidade São Francisco, acredito fortemente no potencial dos dados para impulsionar mudanças estratégicas nas organizações. Como disse o matemático britânico Clive Humby, "𝗗𝗮𝗱𝗼𝘀 𝘀ã𝗼 𝗼 𝗻𝗼𝘃𝗼 𝗽𝗲𝘁𝗿ó𝗹𝗲𝗼".
 </p>
 
 ## :earth_americas: &nbsp;Onde me encontrar?
