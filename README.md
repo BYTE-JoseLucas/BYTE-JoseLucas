@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=BYTE-JoseLucas&color=006bed)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="150" max-width="150px" width="150px" align="right" alt="Computador">
 
 <p align="left">
 Olá, sou o <strong>Zé</strong> ou <strong>José Lucas</strong>! Você pode entrar em contato através dos links:
